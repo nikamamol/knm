@@ -129,8 +129,8 @@ function ChatApp() {
   return (
     <Container fluid className="mt-5">
       <Row>
-        <Col lg={3}></Col>
-        <Col lg={8}>
+        <Col lg={2}></Col>
+        <Col lg={10}>
           <Row className="justify-content-center align-items-center vh-100 my-10">
             <Col xs={12} md={8} lg={12} className="d-flex flex-column h-100">
               <div className="d-flex align-items-center p-3 border-bottom bg-success text-white mt-5">

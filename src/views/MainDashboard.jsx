@@ -119,9 +119,9 @@ function MainDashboard() {
         <div>
             <Container fluid className='my-3'>
                 <Row >
-                    <Col lg={3}>
+                    <Col lg={2}>
                     </Col>
-                    <Col lg={8}>
+                    <Col lg={10}>
                         <div className='my-5'>
                             <div className="col-md-12 col-lg-12 mb-3">
                                 <div className="card">

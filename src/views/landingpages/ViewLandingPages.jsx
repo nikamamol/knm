@@ -30,10 +30,10 @@ function ViewLandingPages() {
     <div>
       <Container fluid className="my-5">
         <Row>
-          <Col lg={3}>
+          <Col lg={2}>
             {/* Add content here if needed */}
           </Col>
-          <Col lg={8}>
+          <Col lg={10}>
             <div className="bgColor rounded-3 shadow">
               <h4 className="fw-bold py-3 ms-3 text_color">View All Landing Pages</h4>
             </div>

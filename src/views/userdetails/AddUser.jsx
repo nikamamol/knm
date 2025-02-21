@@ -55,8 +55,8 @@ function AddUser() {
   return (
     <Container fluid className="mt-5">
       <Row>
-        <Col lg={3}></Col>
-        <Col lg={8}>
+        <Col lg={2}></Col>
+        <Col lg={10}>
           <div className="row">
             <div className="col-xxl">
               <div className='bgColor rounded-3 shadow'>

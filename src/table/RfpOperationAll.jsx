@@ -122,7 +122,7 @@ const RfpOperationAll = () => {
 
     const columns = useMemo(
         () => [
-            { accessorKey: '_id', header: 'S.No', size: 50, Cell: ({ row }) => row.index + 1 },
+            { accessorKey: '_id', header: 'S.No', size: 100, Cell: ({ row }) => row.index + 1 },
             { accessorKey: 'originalname', header: 'Filename', size: 200 },
             { accessorKey: 'campaignName', header: 'Campaign Name', size: 200 },
             { accessorKey: 'clientSelect', header: 'Client Name', size: 200 },

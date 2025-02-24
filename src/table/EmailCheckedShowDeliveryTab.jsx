@@ -33,7 +33,7 @@ function EmailCheckedShowDeliveryTab() {
         {
             accessorKey: '_id',
             header: 'S.No',
-            size: 50,
+            size: 100,
             Cell: ({ row }) => row.index + 1,
         },
         {

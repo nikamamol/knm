@@ -54,7 +54,7 @@ const AgencyMyAgency = () => {
       {
         accessorKey: 'serialNumber',
         header: 'Sr. Number',
-        size: 50,
+        size: 100,
       },
       {
         accessorKey: 'agencyName',

@@ -78,7 +78,7 @@ const RfpReceived = () => {
       {
         accessorKey: 'serialNumber',
         header: 'S.No',
-        size: 50,
+        size: 100,
       },
       {
         accessorKey: 'filename',

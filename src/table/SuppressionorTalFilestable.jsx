@@ -50,7 +50,7 @@ function SuppressionorTalFilestable() {
         {
             accessorKey: 'srNumber',
             header: 'S.No',
-            size: 50,
+            size: 100,
             Cell: ({ row }) => row.index + 1,
         },
         { accessorKey: 'originalname', header: 'Filename', size: 200 },

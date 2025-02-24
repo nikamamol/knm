@@ -27,7 +27,7 @@ const BillingViewClient = () => {
 
   const columns = useMemo(
     () => [
-      { accessorKey: 'serialNumber', header: 'S.No', size: 50 },
+      { accessorKey: 'serialNumber', header: 'S.No', size: 100 },
       { accessorKey: 'companyName', header: 'Company Name', size: 200 },
       { accessorKey: 'pocName', header: 'POC', size: 150 },
       { accessorKey: 'mobile', header: 'Mobile', size: 150 },

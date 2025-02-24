@@ -233,7 +233,7 @@ const RfpQualityCheck = () => {
 
     const columns = useMemo(
         () => [
-            { accessorKey: 'serialNumber', header: 'S.No', size: 50 },
+            { accessorKey: 'serialNumber', header: 'S.No', size: 100 },
             { accessorKey: 'originalname', header: 'Filename', size: 200 },
             { accessorKey: 'campaignName', header: 'Campaign Name', size: 200 },
             { accessorKey: 'campaignCode', header: 'Campaign Code', size: 100 },

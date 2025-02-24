@@ -37,7 +37,7 @@ const VoiceLog = () => {
       {
         accessorKey: 'serialNumber',
         header: 'Sr.No',
-        size: 50,
+        size: 100,
         Cell: ({ row }) => row.index + 1,
       },
       {

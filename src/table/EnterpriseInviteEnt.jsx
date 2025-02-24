@@ -39,7 +39,7 @@ const EnterpriseInviteEnt = () => {
       {
         accessorKey: 'serialNumber',
         header: 'Sr.No',
-        size: 50,
+        size: 100,
       },
       {
         accessorKey: 'enterpriseName',

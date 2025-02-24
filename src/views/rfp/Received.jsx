@@ -84,7 +84,7 @@ function Received() {
             <div className='bgColor rounded-3 shadow'>
               <h4 className='fw-bold py-3 ms-3 text_color'>Your RFP File List</h4>
             </div>
-            {(userRole === "user" || userRole === "reasercher" ) && (
+            {(userRole === "user" || userRole === "reasercher"  || userRole === "admin") && (
               <div className='my-3 d-flex justify-content-end'>
                 <Button variant="primary" className='p-2' onClick={handleShow}>
                   <CloudUploadIcon /> Upload  or Drag 'n' drop RPF File

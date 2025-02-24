@@ -35,7 +35,7 @@ const BillingViewInvoice = () => {
       {
         accessorKey: 'serialNumber',
         header: 'Sr.no',
-        size: 50,
+        size: 100,
       },
       {
         accessorKey: 'invoiceDate',

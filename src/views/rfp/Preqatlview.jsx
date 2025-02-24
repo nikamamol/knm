@@ -85,7 +85,7 @@ function Preqatlview() {
           <Col lg={2}></Col>
           <Col lg={10}>
             <div className='bgColor rounded-3 shadow'>
-              <h4 className='fw-bold py-3 ms-3 text_color'>PreQA TL Files</h4>
+              <h4 className='fw-bold py-3 ms-5 text_color'>PreQA TL Files</h4>
             </div>
             {(userRole === "user" || userRole === "reasercher" || userRole === "admin") && (
               <div className='my-3 d-flex justify-content-end'>

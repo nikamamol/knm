@@ -60,7 +60,7 @@ const BenchmarkAsset = () => {
         accessorKey: "serial", // Serial number column
         header: "Sr.No.", // Column header
         Cell: ({ row }) => row.index + 1, // Display row index + 1 for serial number
-        size: 50,
+        size: 100,
       },
       {
         accessorKey: "Name", // Email campaign name

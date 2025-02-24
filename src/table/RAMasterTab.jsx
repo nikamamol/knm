@@ -43,7 +43,7 @@ const RAMasterTab = () => {
       {
         accessorKey: 'originalname',
         header: 'Filename',
-        size: 200,
+        size: 100,
       },
       {
         accessorKey: 'campaignName',

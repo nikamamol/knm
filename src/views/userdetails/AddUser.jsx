@@ -176,9 +176,8 @@ function AddUser() {
                           required
                         >
                           <option>--Select Supervisor--</option>
-                          <option value="john">Ankush Surywanshi</option>
-                          <option value="shon">Shon</option>
-                          <option value="shantanu">Shantanu</option>
+                          <option value="Ankush Surywanshi">Ankush Surywanshi</option>
+                         
                         </Form.Select>
                       </Form.Group>
                       <Form.Group className="mb-3 col-md-6" controlId="salary">

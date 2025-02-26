@@ -43,11 +43,11 @@ const Register = () => {
     return (
         <Container fluid className='bgGradinet'>
             <Row>
-                <Col lg={12} className="d-flex justify-content-center align-items-center vh-100">
+                <Col lg={12} className="d-flex justify-content-center align-items-center ">
                     <Col lg={6}>
-                        <Card className="border-0 shadow p-2" style={{ backgroundColor: '#F8F4E1' }}>
+                        <Card className="border-0 shadow p-4" style={{ backgroundColor: '#F8F4E1' }}>
                             <div className='text-center'>
-                                <img src={LogoImge1} alt="" width={200} height={100} />
+                                <img src={LogoImge1} alt="" width={90} height={45} />
                                 <p>Koinet Media Ites Pvt Ltd.</p>
                                 <h4>Welcome to Koinet-Media! 👋</h4>
                                 <p>Sign-up to your account and roll up your sleeves to work on the campaign!</p>

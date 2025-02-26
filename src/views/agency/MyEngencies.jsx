@@ -12,9 +12,9 @@ function MyEngencies() {
       <Navbar />
       <Container fluid className='my-5 '>
         <Row className=''>
-          <Col lg={2}>
+          <Col lg={3}>
           </Col>
-          <Col lg={10}>
+          <Col lg={8}>
             <div className='bgColor rounded-3 shadow'>
               <h4 className='fw-bold py-3 ms-3 text_color'>View All Agency</h4>
             </div>

@@ -31,8 +31,8 @@ function OperationChecked() {
     <div>
       <Container fluid className='my-5'>
         <Row>
-          <Col lg={2}></Col>
-          <Col lg={10}>
+          <Col lg={3}></Col>
+          <Col lg={8}>
             <div className='bgColor rounded-3 shadow'>
               <h4 className='fw-bold py-3 ms-3 text_color'>Delivery Checked All Files</h4>
             </div>
